@@ -7,5 +7,5 @@ Route::get('/', function () {
 }); //Home
 
 Route::get('/form', function () {
-    return view('Frontend/about');
+    return view('Frontend/order');
 }); //Home
